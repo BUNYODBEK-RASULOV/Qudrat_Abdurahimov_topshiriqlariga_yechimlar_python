@@ -1,1 +1,2 @@
 # Qudrat_Abdurahimov_topshiriqlariga_yechimlar_python
+Ushbu repozitoryda Qudrat Abdurahimov topshiriqlariga yechimlar joylangan python dasturlash tilida
