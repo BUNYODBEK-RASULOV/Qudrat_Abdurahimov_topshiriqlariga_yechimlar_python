@@ -1,0 +1,1 @@
+# Qudrat_Abdurahimov_topshiriqlariga_yechimlar_python
